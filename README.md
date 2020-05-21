@@ -2,10 +2,10 @@
 >  - En proceso de construcción
 
 # Uso
-> -Obtener el NewsFeed
-> -Obtener el Wall
-> -Publicar un estado en Wall
-> -Publicar un link en Wall
+>  - Obtener el NewsFeed
+>  - Obtener el Wall
+>  - Publicar un estado en Wall
+>  - Publicar un link en Wall
 
 # Créditos
 > Desarrollado por:
