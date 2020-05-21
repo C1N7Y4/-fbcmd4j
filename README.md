@@ -16,4 +16,4 @@
 # licencia
 > Facebook4j fue realizado bajo la
 > licencia de
-> [https://facebook4j.github.io/en/index.html]
+> https://facebook4j.github.io/en/index.html
