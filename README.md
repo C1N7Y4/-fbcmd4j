@@ -10,7 +10,7 @@
 # Créditos
 > Desarrollado por:
 > **CISM**
-# licencia
+# Licencia
 > Facebook4j fue realizado bajo la
 > licencia de
 > https://facebook4j.github.io/en/index.html#license
