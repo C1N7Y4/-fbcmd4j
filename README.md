@@ -2,10 +2,7 @@
 >  - En proceso de construcción
 
 # Uso
->  - Obtener NewsFeed
->  - Obtener el Wall
->  - Publicar un estado en Wall
->  - Publicar un link en Wall
+[![N|Solid](C:\Users\mfsrs\Dropbox\000 CS\00 TECMILENIO\24 Computación en Java)
 
 # Créditos
 > Desarrollado por:
