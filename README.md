@@ -2,7 +2,7 @@
 >  - En proceso de construcción
 
 # Uso
-[![N|Solid](C:\Users\mfsrs\Dropbox\000 CS\00 TECMILENIO\24 Computación en Java)
+[!](C:\Users\mfsrs\Dropbox\000 CS\00 TECMILENIO\24 Computación en Java)
 
 # Créditos
 > Desarrollado por:
