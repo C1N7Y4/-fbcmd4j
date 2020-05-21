@@ -2,7 +2,7 @@
 >  - En proceso de construcción
 
 # Uso
-![Diagram](C:\Users\mfsrs\Dropbox\000 CS\00 TECMILENIO\24 Computación en Java)
+![myimage-alt-tag](C:\Users\mfsrs\Dropbox\000 CS\00 TECMILENIO\24 Computación en Java)
 
 # Créditos
 > Desarrollado por:
