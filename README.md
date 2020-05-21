@@ -2,7 +2,7 @@
 >  - En proceso de construcción
 
 # Uso
-<img height="700" src="C:\Users\mfsrs\Dropbox\000 CS\00 TECMILENIO\24 Computación en Java">
+<img height="700" src="file:///C:/Users/mfsrs/Dropbox/000%20CS/00%20TECMILENIO/24%20Computaci%C3%B3n%20en%20Java/">
 
 # Créditos
 > Desarrollado por:
