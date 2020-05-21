@@ -1,15 +1,15 @@
-# Arhivos de Java #
+# Arhivos de Java
 *.class
 *.swp
 
-# Archivos Java empaquetados #
+# Archivos Java empaquetados
 *.war
 *.ear
 
-# Logs de errores de VM #
+# Logs de errores de VM
 hs_err_pid*
 
-# Eclipse IDE #
+# Eclipse IDE
 .project
 .externalToolBuilders/
 *.launch
