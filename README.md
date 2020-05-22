@@ -2,7 +2,7 @@
 >  - En proceso de construcción
 
 # Uso
-![Diagrama](https://github.com/C1N7Y4/-fbcmd4j/blob/master/Diagrama.png)
+![Diagrama](https://github.com/C1N7Y4/-fbcmd4j/blob/Develope/Diagrama.png)
 
 # Créditos
 > Desarrollado por:
