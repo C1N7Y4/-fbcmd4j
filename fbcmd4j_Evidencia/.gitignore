@@ -28,3 +28,4 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+/bin/
