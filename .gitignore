@@ -1,0 +1,30 @@
+# Arhivos de Java #
+*.class
+*.swp
+
+# Archivos Java empaquetados #
+*.war
+*.ear
+
+# Logs de errores de VM #
+hs_err_pid*
+
+# Eclipse IDE #
+.project
+.externalToolBuilders/
+*.launch
+.classpath
+.factorypath
+.target
+.springBeans
+.recommenders/
+
+.metadata
+tmp/
+*.tmp
+*.bak
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
