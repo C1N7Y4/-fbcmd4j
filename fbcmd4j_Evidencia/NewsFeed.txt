@@ -1,0 +1,10 @@
+Message: #Holamundo
+______________________________________
+Message: Mi nombre es Dorothy y soy un usuario de prueba alias Bot
+______________________________________
+Message: Esto es Facebook 4j
+______________________________________
+Message: Hola3
+______________________________________
+Message: Hola2
+______________________________________
