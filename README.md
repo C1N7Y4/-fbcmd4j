@@ -2,10 +2,7 @@
 >  - En proceso de construcción
 
 # Uso
->  - Obtener el NewsFeed
->  - Obtener el Wall
->  - Publicar un estado en Wall
->  - Publicar un link en Wall
+![Diagrama](https://github.com/C1N7Y4/-fbcmd4j/blob/master/Diagrama.png)
 
 # Créditos
 > Desarrollado por:
